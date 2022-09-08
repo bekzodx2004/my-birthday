@@ -1,0 +1,36 @@
+.soat{
+    display: flex;
+    border: 1px solid #000;
+    max-width: 240px;
+    margin: auto;
+    font-family: cursive;
+}
+body{
+    max-width: 450px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h1{
+    margin: 10px;
+}
+
+form{
+    width: 155px;
+   margin: auto;
+
+}
+input{
+    width: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button{
+    display: block;
+    margin: auto;
+    width: 85px;
+}
+.sar{
+    text-align: center;
+}
